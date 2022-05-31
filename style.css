@@ -69,3 +69,8 @@ input[type="button"]#equal{
 input[type="button"][value="0"] {
     grid-column: span 2;
 }
+
+.head{
+    color: rgb(73, 71, 71);
+    text-align: center;
+}

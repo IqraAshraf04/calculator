@@ -1,8 +1,6 @@
 let val=document.getElementById("input");
 function add(v) {
-   
 val.value +=v;
-
 }
 function exe(){
     val.value=eval(val.value);
